@@ -1,0 +1,36 @@
+body {
+	background:#121212;
+	color:#fff;
+	font-family:Tahoma;
+	font-size:14px;
+}
+a {
+	color:#fff;
+}
+.inputWrap {
+	padding:3px;
+	margin:5px;
+}
+.inputText {
+	width:100px;
+	display:inline-block;
+}
+.inputWrap input {
+	background:#bbb;
+	border:1px solid #fff;
+	padding:2px 5px;
+	width:200px;
+}
+.inputWrap textarea {
+	background:#bbb;
+	border:1px solid #fff;
+	padding:2px 5px;
+	width:200px;
+}
+.inputMessage {
+	color:#ff0000;
+	font-size:12px;
+}
+.error-field {
+	border:1px dotted #ff0000;
+}
